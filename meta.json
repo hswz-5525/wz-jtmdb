@@ -6,6 +6,7 @@
     "description": "从TMDB获取电影元数据的刮削插件",
     "owner": "wz",
     "overview": "使用TMDB API自动获取电影的详细信息、图片和演职人员信息",
+    "imageUrl": "https://raw.githubusercontent.com/tubearchivist/tubearchivist-jf-plugin/master/images/logo.png",
     "versions": [
         {
             "version": "1.0.0.0",
