@@ -1,4 +1,5 @@
-{
+[
+    {
     "category": "Metadata",
     "guid": "b0daa707-5dd5-4474-9f81-87a2d456e8dd",
     "name": "wz-TMDB Scraper",
@@ -16,3 +17,4 @@
         }
     ]
 } 
+]
