@@ -1,19 +1,29 @@
-{
-    "category": "Metadata",
-    "guid": "b0daa707-5dd5-4474-9f81-87a2d456e8dd",
-    "name": "wz-TMDB Scraper",
-    "description": "从TMDB获取电影元数据的刮削插件",
-    "owner": "wz",
-    "overview": "使用TMDB API自动获取电影的详细信息、图片和演职人员信息",
-    "imageUrl": "https://raw.githubusercontent.com/tubearchivist/tubearchivist-jf-plugin/master/images/logo.png",
-    "versions": [
-        {
-            "version": "1.0.0.0",
-            "changelog": "首次发布",
-            "targetAbi": "10.8.0.0",
-            "sourceUrl": "https://github.com/hswz-5525/wz-jtmdb/releases/download/1.0.0/wz-jtmdb.zip",
-            "checksum": "5602A1851ECD284FC05FC845EB66E778",
-            "timestamp": "2024-03-20"
-        }
-    ]
-}
+[
+    {
+        "category": "Metadata",
+        "guid": "b0daa707-5dd5-4474-9f81-87a2d456e8dd",
+        "name": "wz-TMDB Scraper",
+        "description": "从TMDB获取电影元数据的刮削插件",
+        "owner": "wz",
+        "overview": "使用TMDB API自动获取电影的详细信息、图片和演职人员信息",
+        "imageUrl": "https://raw.githubusercontent.com/tubearchivist/tubearchivist-jf-plugin/master/images/logo.png",
+        "versions": [
+            {
+                "version": "1.1.0.0",
+                "changelog": "更新支持 .NET 8.0",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/hswz-5525/wz-jtmdb/releases/download/1.0.0/wz-jtmdb.zip",
+                "checksum": "5602A1851ECD284FC05FC845EB66E778",
+                "timestamp": "2024-03-20T12:00:00Z"
+            },
+            {
+                "version": "1.0.0.0",
+                "changelog": "首次发布",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/hswz-5525/wz-jtmdb/releases/download/1.0.0/wz-jtmdb.zip",
+                "checksum": "5602A1851ECD284FC05FC845EB66E778",
+                "timestamp": "2024-03-20T10:00:00Z"
+            }
+        ]
+    }
+]
