@@ -17,6 +17,7 @@ namespace Jellyfin.Plugin.TMDBScraper
 
         public override string Name => "TMDB Scraper";
         public override Guid Id => new Guid("b0daa707-5dd5-4474-9f81-87a2d456e8dd");
+        public override string Description => "从TMDB获取电影元数据的刮削插件";
         public static Plugin Instance { get; private set; }
 
         public override PluginInfo GetPluginInfo()
