@@ -10,7 +10,7 @@
             "version": "1.0.0.0",
             "changelog": "首次发布",
             "targetAbi": "10.8.0.0",
-            "sourceUrl": "实际发布的zip文件URL",
+            "sourceUrl": "https://github.com/hswz-5525/wz-jtmdb/raw/main/Jellyfin.Plugin.TMDBScraper/wz-jtmdb.zip",
             "checksum": "575E1B36377F56AC40490FC45D80B9A1F221A09B0F4E9D81A57C5228A4728795",
             "timestamp": "2024-03-20"
         }
