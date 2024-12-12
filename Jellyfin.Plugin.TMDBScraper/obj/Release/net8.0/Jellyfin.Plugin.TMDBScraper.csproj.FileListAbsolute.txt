@@ -1,0 +1,12 @@
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.csproj.AssemblyReference.cache
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.GeneratedMSBuildEditorConfig.editorconfig
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.AssemblyInfoInputs.cache
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.AssemblyInfo.cs
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.csproj.CoreCompileInputs.cache
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\bin\Release\net8.0\Jellyfin.Plugin.TMDBScraper.deps.json
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\bin\Release\net8.0\Jellyfin.Plugin.TMDBScraper.dll
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\bin\Release\net8.0\Jellyfin.Plugin.TMDBScraper.pdb
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.dll
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\refint\Jellyfin.Plugin.TMDBScraper.dll
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.pdb
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\ref\Jellyfin.Plugin.TMDBScraper.dll

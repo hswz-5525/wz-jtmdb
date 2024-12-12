@@ -1,0 +1,18 @@
+{
+    "category": "Metadata",
+    "guid": "b0daa707-5dd5-4474-9f81-87a2d456e8dd",
+    "name": "wz-TMDB Scraper",
+    "description": "从TMDB获取电影元数据的刮削插件",
+    "owner": "wz",
+    "overview": "使用TMDB API自动获取电影的详细信息、图片和演职人员信息",
+    "versions": [
+        {
+            "version": "1.0.0.0",
+            "changelog": "首次发布",
+            "targetAbi": "10.8.0.0",
+            "sourceUrl": "实际发布的zip文件URL",
+            "checksum": "575E1B36377F56AC40490FC45D80B9A1F221A09B0F4E9D81A57C5228A4728795",
+            "timestamp": "2024-03-20"
+        }
+    ]
+} 
