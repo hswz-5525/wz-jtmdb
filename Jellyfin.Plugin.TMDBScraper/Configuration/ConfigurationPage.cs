@@ -12,7 +12,7 @@ namespace Jellyfin.Plugin.TMDBScraper.Configuration
             MenuSection = "server";
             MenuIcon = "movie";
             DisplayName = "TMDB Scraper 设置";
-            EmbeddedResourcePath = GetType().Namespace + ".configPage.html";
+            EmbeddedResourcePath = GetType().Namespace + ".configPage";
         }
     }
 } 

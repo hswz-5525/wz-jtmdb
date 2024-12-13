@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using MediaBrowser.Common.Configuration;
 using MediaBrowser.Common.Plugins;
 using MediaBrowser.Model.Plugins;
@@ -7,7 +8,7 @@ using Jellyfin.Plugin.TMDBScraper.Configuration;
 
 namespace Jellyfin.Plugin.TMDBScraper
 {
-    public class Plugin : BasePlugin<PluginConfiguration>
+    public class Plugin : BasePlugin<PluginConfiguration>, IHasPluginConfiguration
     {
         public Plugin(IApplicationPaths applicationPaths, IXmlSerializer xmlSerializer)
             : base(applicationPaths, xmlSerializer)
@@ -29,6 +30,14 @@ namespace Jellyfin.Plugin.TMDBScraper
                 Id,
                 true
             );
+        }
+
+        public IEnumerable<PluginPageInfo> GetPages()
+        {
+            return new[]
+            {
+                new ConfigurationPage()
+            };
         }
     }
 } 

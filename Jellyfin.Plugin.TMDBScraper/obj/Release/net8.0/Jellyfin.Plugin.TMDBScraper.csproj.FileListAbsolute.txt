@@ -10,3 +10,4 @@ Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\ne
 Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\refint\Jellyfin.Plugin.TMDBScraper.dll
 Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.pdb
 Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\ref\Jellyfin.Plugin.TMDBScraper.dll
+Z:\sync\BaiduNetdiskDownload\wz-jtmdb\Jellyfin.Plugin.TMDBScraper\obj\Release\net8.0\Jellyfin.Plugin.TMDBScraper.sourcelink.json
